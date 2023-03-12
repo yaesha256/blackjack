@@ -1,0 +1,10 @@
+{
+"dependencies": {
+    "dotenv": "^16.0.3",
+    "neo-blessed": "^0.2.0",
+    "nexe": "^4.0.0-beta.19",
+    "node": "^19.6.1",
+    "secretjs": "^1.8.1",
+    "update-dotenv": "^1.1.1"
+  }
+}
