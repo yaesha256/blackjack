@@ -6,3 +6,5 @@ Makefile
 resolve*
 tsconfig.json
 gen_scripts
+src
+package.json
