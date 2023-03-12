@@ -1,0 +1,8 @@
+dev
+generated
+node_modules
+package-lock.json
+Makefile
+resolve*
+tsconfig.json
+gen_scripts
